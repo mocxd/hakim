@@ -1,4 +1,22 @@
+# Hakim
 
+## About
+
+Experimental alternative music distro tool using lightweight full stack JS, or static data.
+
+IMPORTANT: Nothing works.
+
+## Notes
+
+components/dependencies
+
+- onmyouji [templater / wip]
+- goat-fur [frontend lib / wip]
+- crossroads.js
+- express.js (if using dynamic data)
+- some db
+
+syntax
 
 ```html
 
